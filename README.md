@@ -9,7 +9,7 @@ This template provides a minimal setup for building a React application with Typ
 <!-- dash-content-start -->
 
 🚀 Supercharge your web development with this powerful stack:
-a
+
 - [**React**](https://react.dev/) - A modern UI library for building interactive interfaces
 - [**Vite**](https://vite.dev/) - Lightning-fast build tooling and development server
 - [**Hono**](https://hono.dev/) - Ultralight, modern backend framework
